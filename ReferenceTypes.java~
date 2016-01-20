@@ -1,0 +1,11 @@
+public class ReferenceTypes {
+	public ReferenceTypes() {
+
+	}
+	public ReferenceTypes(String data) {
+	
+	}
+	static void main(String[] args) {
+		ReferenceTypes referenece = new ReferenceTypes();
+	}
+}
