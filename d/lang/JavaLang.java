@@ -60,4 +60,8 @@ public class JavaLang {
       System.out.println();
     }
   }
+
+  public void mathCheck3() {
+    
+  }
 }
